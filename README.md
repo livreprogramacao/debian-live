@@ -12,4 +12,5 @@ Configuração de uma  instalação iniciada pelo debian live.
 ```
 sudo apt-get update
 sudo apt-get install --yes chromium
+sudo apt-get install --yes aptitude
 ```
